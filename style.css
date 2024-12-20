@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+    background: #1B0E0F;
+    margin: 226px auto;
+}
+
+.co_mainContainer {
+    width: 1416px;
+    align-items: center;
+    background: #FFF;
+    padding: 96px 66px;
+}
+
+.headerSection {
+    text-align: center;
+}
+
+.headerSpan {
+    color: #002AFE;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+
+h1 {
+    color: #181D27;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.96px;
+    margin-bottom: 24px;
+}
+
+.descriptionOfIndustry {
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.sections {
+    margin-top: 56px;
+}
+
+.imgdiv {
+    max-width: 600px;
+    width: 100%;
+    height: 462px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.textualInformationDiv {
+    max-width: 584px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 96px;
+}
+
+.sectionSpan {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-bottom: 8px;
+}
+
+h3 {
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    margin-bottom: 8px;
+}
+
+.sectionParagraph {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.NatalisProfile {
+    margin-top: 24px;
+}
+
+.NatalisImg {
+    display: inline-block;
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+}
+
+.registrationAndNameDiv {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 8px;
+}
+
+.name {
+    color: #181D27;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.registrationData {
+    color: #535862;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
